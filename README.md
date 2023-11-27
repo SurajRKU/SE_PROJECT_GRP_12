@@ -108,7 +108,7 @@ See RoadMap [here](https://github.com/users/SurajRKU/projects/1/views/2)
 *For a detailed description of the same, please refer to the comment for each item*
 
 ### Bug? 🐛
-Raise a issue on this repository, we would love to look at it ❤️
+[Raise an issue](https://github.com/SurajRKU/SE_PROJECT_GRP_12/issues/new) on this repository, we would love to look at it ❤️
 
 # Contributors 👥
   <table>
