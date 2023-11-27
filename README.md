@@ -105,6 +105,8 @@ The project is not currently funded
 
 See RoadMap [here](https://github.com/users/SurajRKU/projects/1/views/2)
 
+*For a detailed description of the same, please refer to the comment for each item*
+
 ### Bug? 🐛
 Raise a issue on this repository, we would love to look at it ❤️
 
