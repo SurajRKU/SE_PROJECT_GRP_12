@@ -19,7 +19,7 @@ clf = pickle.load(open(filename, 'rb'))
 vectorizer = pickle.load(open('tranform.pkl','rb'))
     
 
-# Below functions are defined to convert strings to lists, generate a TF-IDF matrix, and get movie suggestions from a CSV file (main_data.csv).
+# Below functions are defined to convert strings to lists, generate a TF-IDF matrix, and get movie suggestions from a CSV file (main_data.csv)
 def convert_to_list(my_list):
     my_list = my_list.split('","')
     my_list[0] = my_list[0].replace('["','')
