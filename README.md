@@ -71,10 +71,10 @@ Imagine each movie is a star, and cosine similarity is like a cool trick to see 
 
 
 ### Rubric 📝
-Refer to Rubric.md file [here](https://github.com/kgudipe/SE_PROJ/blob/main/Project2/Rubrics.md)
+Refer to Rubric.md file [here](https://github.com/SurajRKU/SE_PROJECT_GRP_12/blob/main/project3/README.md)
 
 ### Documentation 📚
-Refer to Wiki page [here](https://github.com/git-ankit/MovieRecommender/wiki/Documentation)
+Refer to Wiki page [here](https://github.com/SurajRKU/SE_PROJECT_GRP_12/blob/main/API_Documentation.md)
 
 
 
