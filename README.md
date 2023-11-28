@@ -5,6 +5,26 @@
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 ![Coverage](https://img.shields.io/badge/coverage-97%25-brightgreen)
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Build Status](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1.svg?branch=main)](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1)
+[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+[![Issues](https://img.shields.io/github/issues/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![Issues Closed](https://img.shields.io/github/issues-closed/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+![last commit](https://img.shields.io/github/last-commit/prathyu99/CSC510_Group25_Project1)
+![total lines](https://img.shields.io/tokei/lines/github/prathyu99/CSC510_Group25_Project1)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/prathyu99/CSC510_Group25_Project1/main)[![Repo-size](https://img.shields.io/github/repo-size/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![file_count](https://img.shields.io/github/directory-file-count/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![language_count](https://img.shields.io/github/languages/count/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+![GitHub all releases](https://img.shields.io/github/downloads/prathyu99/CSC510_Group25_Project1/total)
+[![Top Language](https://img.shields.io/github/languages/top/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![Release](https://img.shields.io/github/v/release/prathyu99/wolfjobs)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+![Build Status](https://github.com/ashakhatri007/CSC510_Group25_Project1/workflows/npm-build/badge.svg)
+[![codecov](https://img.shields.io/badge/coverage-97%25-brightgreen)
+[![unit_tests](https://github.com/ashakhatri007/CSC510_Group25_Project1/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml)
+[![Repo Size](https://img.shields.io/github/repo-size/SurajRKU/SE_PROJECT_GRP_12?color=brightgreen)](https://github.com/SurajRKU/SE_PROJECT_GRP_12.git)
+[![contributors](https://img.shields.io/github/contributors/SurajRKU/SE_PROJECT_GRP_12)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/graphs/contributors)
+
 This Movie Recommender System is like having a movie buddy who knows your taste super well. It looks at movie info from TMDB and even checks out what people say on IMDB. Then, it uses something called cosine similarity along with the sentiment analysis to match you with movies you'll love.
 
 Imagine each movie is a star, and cosine similarity is like a cool trick to see which stars go together in the movie universe. You just type in a movie you like, and boom! It suggests other movies you'll probably dig. Setting it up is a breeze—just follow the steps. It's like having your own movie sidekick, making sure every suggestion is spot-on for your movie mood!
@@ -100,6 +120,13 @@ The project utilizes data from the following sources:
 4. [Movie List - 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [Movie List - 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 
+## To run test cases enter below commands
+python -m pip install -r requirements.txt
+python -m coverage run -m unittest discover
+
+## To test Code Coverage
+python -m coverage report
+python -m coverage html
 
 ## Funding 💰
 The project is not currently funded
