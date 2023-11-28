@@ -1,0 +1,75 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+__pycache__/
+dist/
+build/
+*.exe
+*.spec
+
+# macOS
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code files
+.vscode/
+
+# Sublime Text files
+.sublime-project
+.sublime-workspace
+
+# Flask related
+instance/
+.webassets-cache
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
