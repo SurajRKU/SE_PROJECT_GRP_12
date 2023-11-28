@@ -15,7 +15,6 @@
 ![last commit](https://img.shields.io/github/last-commit/SurajRKU/SE_PROJECT_GRP_12)
 [![Repo Size](https://img.shields.io/github/repo-size/SurajRKU/SE_PROJECT_GRP_12?color=brightgreen)](https://github.com/SurajRKU/SE_PROJECT_GRP_12.git)
 [![contributors](https://img.shields.io/github/contributors/SurajRKU/SE_PROJECT_GRP_12)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/graphs/contributors)
-[![Coverage](https://img.shields.io/badge/coverage-99%25-brightgreen)](file:///C:/Users/saisa/Documents/SE_PROJ/Project2/test/htmlcov/index.html)
 [![GitHub release](https://img.shields.io/github/tag/SurajRKU/SE_PROJECT_GRP_12.svg )](https://github.com/SurajRKU/SE_PROJECT_GRP_12/tags)
 [![file_count](https://img.shields.io/github/directory-file-count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
 [![language_count](https://img.shields.io/github/languages/count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
@@ -23,7 +22,6 @@
 [![Top Language](https://img.shields.io/github/languages/top/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
 [![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
 [![Release](https://img.shields.io/github/v/release/SurajRKU/wolfjobs)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
-[![unit_tests](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml)
 
 This Movie Recommender System is like having a movie buddy who knows your taste super well. It looks at movie info from TMDB and even checks out what people say on IMDB. Then, it uses something called cosine similarity along with the sentiment analysis to match you with movies you'll love.
 
