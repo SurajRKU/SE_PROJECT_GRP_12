@@ -119,7 +119,7 @@ Please find our Youtube video [here](https://youtu.be/275Ibxyu2AA)
 
 
 ### Rubric 📝
-Refer to Rubric.md file [here](https://github.com/SurajRKU/SE_PROJECT_GRP_12/blob/main/project3/README.md)
+Refer to Rubric file [here](https://github.com/SurajRKU/SE_PROJECT_GRP_12/blob/main/project3/README.md)
 
 ### Documentation 📚
 Refer to Wiki page [here](https://github.com/SurajRKU/SE_PROJECT_GRP_12/blob/main/API_Documentation.md)
