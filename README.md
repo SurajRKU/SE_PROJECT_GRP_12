@@ -121,12 +121,12 @@ The project utilizes data from the following sources:
 5. [Movie List - 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
 
 ## To run test cases enter below commands
-python -m pip install -r requirements.txt
-python -m coverage run -m unittest discover
+- python -m pip install -r requirements.txt
+- python -m coverage run -m unittest discover
 
 ## To test Code Coverage
-python -m coverage report
-python -m coverage html
+- python -m coverage report
+- python -m coverage html
 
 ## Funding 💰
 The project is not currently funded
