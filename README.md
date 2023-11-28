@@ -47,6 +47,30 @@ Let us say you're browsing through our updated system. You select a recent movie
 
 - **Poster Pretty to Interactive Play:** Posters were just pretty faces. Now, click on them, and it's a gateway to excitement! Experience the thrill with interactive movie trailers. This transcends the passive observation of movie materials and shift towards active participation and engagement.  It's not just lights, camera, action; it's lights, camera, interaction! 🎬🔗
 
+### Project Snapshots 📸
+1. **Main Page with Search Bar:** 🌐
+   
+![image](https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/6c265005-8297-40d6-b83f-4f8e75fd9605)
+
+2. **Movie Details Page:** 🎬
+
+![movie details](https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/7a210290-f812-4fcc-93ee-73ff2381621e)
+
+3. **Cast Details Page:** 🌟
+
+ ![cast_info](https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/cf92c174-9b23-4787-9aaa-c5368fb3ab48)
+
+4. **User Reviews Page:** 🗣️
+
+![image](https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/182aeb38-9b52-4720-802c-097c7ac1b217)
+
+5. **Recommended Movies Page:** 🎉
+
+![image](https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/b294a6e2-893e-41d9-86db-b0338cae5acb)
+
+6. **Trailer Functionality GIF:** 🚀
+
+https://github.com/SurajRKU/SE_PROJECT_GRP_12/assets/64723066/08a9d643-4ad3-4fd8-b4a3-3daade87c215
 
 
 ### Video ▶️ 
