@@ -19,12 +19,11 @@
 [![GitHub release](https://img.shields.io/github/tag/SurajRKU/SE_PROJECT_GRP_12.svg )](https://github.com/SurajRKU/SE_PROJECT_GRP_12/tags)
 [![file_count](https://img.shields.io/github/directory-file-count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
 [![language_count](https://img.shields.io/github/languages/count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
-
-![GitHub all releases](https://img.shields.io/github/downloads/prathyu99/CSC510_Group25_Project1/total)
-[![Top Language](https://img.shields.io/github/languages/top/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![Release](https://img.shields.io/github/v/release/prathyu99/wolfjobs)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![unit_tests](https://github.com/ashakhatri007/CSC510_Group25_Project1/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml)
+![GitHub all releases](https://img.shields.io/github/downloads/SurajRKU/SE_PROJECT_GRP_12/total)
+[![Top Language](https://img.shields.io/github/languages/top/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
+[![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
+[![Release](https://img.shields.io/github/v/release/SurajRKU/wolfjobs)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
+[![unit_tests](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml)
 
 This Movie Recommender System is like having a movie buddy who knows your taste super well. It looks at movie info from TMDB and even checks out what people say on IMDB. Then, it uses something called cosine similarity along with the sentiment analysis to match you with movies you'll love.
 
