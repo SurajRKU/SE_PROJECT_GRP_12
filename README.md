@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
 [![Issues Closed](https://img.shields.io/github/issues-closed/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
-[![pycodestyle](https://img.shields.io/badge/StyleChecker-pycodestyle-purple.svg)](https://pypi.org/project/pycodestyle/)
+[![black](https://img.shields.io/badge/StyleChecker-black-purple.svg)](https://pypi.org/project/black/)
 ![33.5 kB](https://img.shields.io/github/languages/code-size/SurajRKU/SE_PROJECT_GRP_12) ![Language](https://img.shields.io/badge/Language-Python-blue) 
 ![last commit](https://img.shields.io/github/last-commit/SurajRKU/SE_PROJECT_GRP_12)
 [![Repo Size](https://img.shields.io/github/repo-size/SurajRKU/SE_PROJECT_GRP_12?color=brightgreen)](https://github.com/SurajRKU/SE_PROJECT_GRP_12.git)
