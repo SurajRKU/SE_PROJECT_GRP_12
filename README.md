@@ -16,11 +16,10 @@
 [![Repo Size](https://img.shields.io/github/repo-size/SurajRKU/SE_PROJECT_GRP_12?color=brightgreen)](https://github.com/SurajRKU/SE_PROJECT_GRP_12.git)
 [![contributors](https://img.shields.io/github/contributors/SurajRKU/SE_PROJECT_GRP_12)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/graphs/contributors)
 [![Coverage](https://img.shields.io/badge/coverage-99%25-brightgreen)](file:///C:/Users/saisa/Documents/SE_PROJ/Project2/test/htmlcov/index.html)
-
-![total lines](https://img.shields.io/tokei/lines/github/SurajRKU/SE_PROJECT_GRP_12)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/SurajRKU/SE_PROJECT_GRP_12/main)
+[![GitHub release](https://img.shields.io/github/tag/SurajRKU/SE_PROJECT_GRP_12.svg )](https://github.com/SurajRKU/SE_PROJECT_GRP_12/tags)
 [![file_count](https://img.shields.io/github/directory-file-count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
-[![language_count](https://img.shields.io/github/languages/count/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
+[![language_count](https://img.shields.io/github/languages/count/SurajRKU/SE_PROJECT_GRP_12)](https://GitHub.com/SurajRKU/SE_PROJECT_GRP_12/)
+
 ![GitHub all releases](https://img.shields.io/github/downloads/prathyu99/CSC510_Group25_Project1/total)
 [![Top Language](https://img.shields.io/github/languages/top/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
 [![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
