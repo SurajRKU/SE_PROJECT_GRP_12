@@ -19,7 +19,6 @@
 [![Top Language](https://img.shields.io/github/languages/top/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
 [![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
 [![Release](https://img.shields.io/github/v/release/prathyu99/wolfjobs)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-![Build Status](https://github.com/ashakhatri007/CSC510_Group25_Project1/workflows/npm-build/badge.svg)
 ![codecov](https://img.shields.io/badge/coverage-97%25-brightgreen)
 [![unit_tests](https://github.com/ashakhatri007/CSC510_Group25_Project1/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/SurajRKU/SE_PROJECT_GRP_12/actions/workflows/QtyCalcTests.yml)
 [![Repo Size](https://img.shields.io/github/repo-size/SurajRKU/SE_PROJECT_GRP_12?color=brightgreen)](https://github.com/SurajRKU/SE_PROJECT_GRP_12.git)
