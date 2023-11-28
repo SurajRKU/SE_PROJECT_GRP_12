@@ -1,3 +1,3 @@
 git clone https://github.com/SurajRKU/SE_PROJECT_GRP_12.git
-cd The-Movie-Cinema-master
+cd SE_PROJECT_GRP_12
 python main.py
